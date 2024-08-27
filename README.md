@@ -25,7 +25,7 @@ Navigate to the project directory:
 
 Run the application:  
 ```
-python student_management.py
+python CrudProject.py
 ```
 
 License  
